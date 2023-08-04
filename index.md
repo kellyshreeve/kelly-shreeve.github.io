@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### [Multi-Output Regression Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
+### [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
 
 <p align="center">
   <img src="/images/gold_stages.png?raw=true" 
@@ -26,7 +26,7 @@ Uses high-level plotly visualizations of coffee quality across the world to dete
 
 [View Project on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
 
-### [Imbalanced Classification Model Predicting Bank Churn](https://github.com/kellyshreeve/predicting-bank-churn)
+### [Predicting Bank Churn](https://github.com/kellyshreeve/predicting-bank-churn)
 
 <p align="center">
   <img src="/images/roc_auc.png?raw=true" 
@@ -35,7 +35,7 @@ Uses high-level plotly visualizations of coffee quality across the world to dete
   alt="Roc-auc curve for test set">
 </p>
 
-Data were weighted and upsampled and models were fit and tuned to maximize F1 Score on the training set.
+An imbalanced classification problem. Data were weighted and upsampled and models were fit and tuned to maximize F1 Score on the training set.
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-bank-churn)
 
