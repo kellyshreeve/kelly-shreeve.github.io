@@ -35,7 +35,7 @@ Uses high-level plotly visualizations of coffee quality across the world to dete
   alt="Roc-auc curve for test set">
 </p>
 
-An imbalanced classification problem. Data were weighted and upsampled and models were fit and tuned to maximize F1 Score on the training set.
+An imbalanced classification problem where data are weighted and upsampled, and models are fit and tuned, to maximize F1 Score on the training set.
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-bank-churn)
 
