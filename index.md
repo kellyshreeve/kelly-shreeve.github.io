@@ -9,6 +9,7 @@
 
 A supervised machine learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore.
 
+[View Project on GitHub](https://github.com/kellyshreeve/gold-recovery)
 ---
 
 # Blog
