@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="/images/gold_recovery.png?raw=true" 
-  width="400"
+  width="350"
   height="300"
   alt="Line graph of gold recovery across stages">
 </p>
