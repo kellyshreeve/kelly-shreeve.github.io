@@ -18,7 +18,7 @@ A supervised machine learning project building a multi-output regression that mi
   alt="Bar graph of average quality across coffee varieties">
 </p>
 
-This project uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee
+Uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee.
 
 [View Project on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
 
