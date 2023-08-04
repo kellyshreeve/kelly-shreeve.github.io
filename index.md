@@ -26,6 +26,19 @@ Uses high-level plotly visualizations of coffee quality across the world to dete
 
 [View Project on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
 
+### [Predicting Bank Churn](https://github.com/kellyshreeve/predicting-bank-churn)
+
+<p align="center">
+  <img src="/images/roc_auc.png?raw=true" 
+  width="400"
+  height="300"
+  alt="Roc-auc curve for test set">
+</p>
+
+Imbalanced classification supervised machine learning project building a classification model that maximized F1 Score when predicting customer bank churn.
+
+[View Project on GitHub](https://github.com/kellyshreeve/predicting-bank-churn)
+
 ---
 
 # Blog
