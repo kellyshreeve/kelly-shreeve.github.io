@@ -16,7 +16,7 @@ A supervised machine learning project building a multi-output regression that mi
 ### [Visualizing Coffee Quality](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
 
 <p align="center">
-  <img src="/images/quality_variety.png?raw=true" 
+  <img src="/images/total_points_variety.png?raw=true" 
   width="500"
   height="250"
   alt="Bar graph of average quality across coffee varieties">
