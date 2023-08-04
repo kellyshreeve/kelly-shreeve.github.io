@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
+### [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
 
 <p align="center">
   <img src="/images/gold_recovery.png?raw=true" 
@@ -11,7 +11,7 @@ A supervised machine learning project building a multi-output regression that mi
 
 [View Project on GitHub](https://github.com/kellyshreeve/gold-recovery)
 
-## [Visualizing Coffee Quality](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
+### [Visualizing Coffee Quality](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
 
 <p align="center">
   <img src="/images/quality_variety.png?raw=true" 
