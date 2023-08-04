@@ -35,7 +35,7 @@ Uses high-level plotly visualizations of coffee quality across the world to dete
   alt="Roc-auc curve for test set">
 </p>
 
-A supervised machine learning project with imbalanced classes, where data are weighted and upsampled to maximize F1 Score on the validation set.
+A supervised machine learning project using imbalanced classification techniques and model tuning to maximize F1 score and ROC-AUC when predicting customer bank churn.
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-bank-churn)
 
