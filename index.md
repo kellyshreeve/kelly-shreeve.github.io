@@ -18,7 +18,7 @@ A supervised machine learning project building a multi-output regression that mi
 <p align="center">
   <img src="/images/quality_variety.png?raw=true" 
   width="400"
-  height="400"
+  height="600"
   alt="Bar graph of average quality across coffee varieties">
 </p>
 
