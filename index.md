@@ -3,7 +3,7 @@
 ## Predicting Gold Recovery from Ore
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/gold-recovery/blob/main/imgaes/recovery_process.png" 
+  <img src="https://github.com/kellyshreeve/kellyshreeve.github.io/blob/main/images/gold_recovery.png" 
   alt="Image of gold recovery stages">
 </p>
 
