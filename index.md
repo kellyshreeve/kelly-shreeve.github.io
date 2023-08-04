@@ -1,8 +1,15 @@
 # Data Science Projects
 
-## Predicting Bank Churn
-An imbalanced classification project predicting bank churn.
-[Github](https://github.com/kellyshreeve/Predicting-Bank-Churn)
+## Predicting Gold Recovery from Ore
+
+<p align="center">
+  <img src="https://github.com/kellyshreeve/gold-recovery/blob/main/imgaes/recovery_process.png" 
+  alt="Image of gold recovery stages">
+</p>
+
+A Supervised Machine Learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore. Linear Regression, Decision Tree Regression, and Random Forest Regression were tuned and cross-validated to determine which model best minimizes sMAPE on the training set. After identifying the best model, the model is used to determine which factors are unprofitable.
+
+[View Full Project on Github]([https://github.com/kellyshreeve/Predicting-Bank-Churn](https://github.com/kellyshreeve/gold-recovery))
 
 ## Blog
 [Data Science Blog Post](https://kellyshreeve.github.io/2023/08/03/Data-Science-Post.html)
