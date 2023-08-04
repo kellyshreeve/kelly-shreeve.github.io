@@ -1,1 +1,3 @@
-# Project 1
+# Data Science Projects
+
+## Project 1
