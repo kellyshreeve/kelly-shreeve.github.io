@@ -41,12 +41,12 @@ A supervised machine learning project using imbalanced classification techniques
 
 ---
 
-# Blog
-[Data Science Blog Post](https://kellyshreeve.github.io/2023/08/03/Data-Science-Post.html)
+## Statistics Tutoring
 
 ---
 
-# Other Pages
-[This is another page](https://kellyshreeve.github.io/another_page)
+Offering statistics tutoring for high school and college students levels introductory - advanced statistical and research methods.
+
+[View My Tutoring Profile]
 
 
