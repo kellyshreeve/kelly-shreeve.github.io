@@ -47,6 +47,6 @@ A supervised machine learning project using imbalanced classification techniques
 
 Offering statistics and research methods tutoring for high school and college students levels introductory - advanced.
 
-[View My Tutoring Profile]
+[View My Tutoring Profile](https://is.gd/yFdya2)
 
 
