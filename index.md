@@ -45,12 +45,12 @@ A supervised machine learning project using imbalanced classification techniques
 
 ---
 
-Offering statistics and research methods tutoring for high school and college students levels introductory - advanced.
+Statistics and research methods tutoring for high school and college students levels introductory - advanced.
 
 <p align="center">
   <img src="/images/review.png?raw=true" 
-  width="400"
-  height="300"
+  width="500"
+  height="250"
   alt="Statistic student's review">
 </p>
 
