@@ -9,6 +9,8 @@
   alt="Line graph of gold recovery across stages">
 </p>
 
+An imbalanced binary and multi-class classification project using Pipelines, GridSearchCV, SMOTE, and SMOTEENN to balance classes, fit, and tune kNN, logistic regression, and random forest classifiers to maximize F1 score when predicting number of insurance benefits.
+
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
 ### [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
