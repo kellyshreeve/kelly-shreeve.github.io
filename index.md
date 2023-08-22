@@ -9,7 +9,7 @@
   alt="Line graph of gold recovery across stages">
 </p>
 
-An imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, SMOTE, and SMOTEENN to maximize F1 score when predicting insurance benefits.
+An imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, SMOTE, and SMOTEENN to maximize F1 score when predicting insurance benefit use.
 
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
