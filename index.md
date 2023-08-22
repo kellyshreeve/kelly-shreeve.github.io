@@ -5,9 +5,11 @@
 <p align="center">
   <img src="/images/pairplot.png?raw=true" 
   width="400"
-  height="400"
+  height="300"
   alt="Line graph of gold recovery across stages">
 </p>
+
+[View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
 ### [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
 
