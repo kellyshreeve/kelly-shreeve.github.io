@@ -1,5 +1,14 @@
 ## Portfolio
 ---
+### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
+
+<p align="center">
+  <img src="/images/pairplot.png?raw=true" 
+  width="400"
+  height="400"
+  alt="Line graph of gold recovery across stages">
+</p>
+
 ### [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
 
 <p align="center">
