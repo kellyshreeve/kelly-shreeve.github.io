@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
-  width="400"
+  width="500"
   height="300"
   alt="Important features LightGBM GBDT">
 </p>
