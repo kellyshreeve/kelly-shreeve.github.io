@@ -9,7 +9,7 @@
   alt="Important features LightGBM GBDT">
 </p>
 
-A regression machine learning problem using gradient boosting to minimize RMSE and computation time when predicting used car prices.
+A regression machine learning project using gradient boosting to minimize RMSE and computation time when predicting used car prices.
 
 ### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
@@ -20,7 +20,7 @@ A regression machine learning problem using gradient boosting to minimize RMSE a
   alt="Line graph of gold recovery across stages">
 </p>
 
-An imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, SMOTE, and SMOTEENN to maximize F1 score when predicting the insurance benefits customers are likely to receive.
+An imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, and imblearn to maximize F1 score when predicting the insurance benefits customers are likely to receive.
 
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
