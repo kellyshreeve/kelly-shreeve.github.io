@@ -1,5 +1,16 @@
 ## Portfolio
 ---
+### [Predicting Used Car Price](https://github.com/kellyshreeve/predicting-used-car-price)
+
+<p align="center">
+  <img src="/images/important_features.png?raw=true" 
+  width="400"
+  height="300"
+  alt="Important features LightGBM GBDT">
+</p>
+
+A regression machine learning problem using gradient boosting to minimize RMSE and computation time when predicting used car prices.
+
 ### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
 <p align="center">
