@@ -11,6 +11,8 @@
 
 A regression machine learning project using gradient boosting to minimize RMSE and computation time when predicting used car prices.
 
+[View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
+
 ### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
 <p align="center">
@@ -49,19 +51,6 @@ A supervised machine learning project building a multi-output regression that mi
 Uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee.
 
 [View Project on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
-
-### [Predicting Bank Churn](https://github.com/kellyshreeve/predicting-bank-churn)
-
-<p align="center">
-  <img src="/images/roc_auc.png?raw=true" 
-  width="400"
-  height="300"
-  alt="Roc-auc curve for test set">
-</p>
-
-A supervised machine learning project using imbalanced classification techniques and model tuning to maximize F1 score and ROC-AUC when predicting customer bank churn.
-
-[View Project on GitHub](https://github.com/kellyshreeve/predicting-bank-churn)
 
 ---
 
