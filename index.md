@@ -9,7 +9,7 @@
   alt="Important features LightGBM GBDT">
 </p>
 
-A regression machine learning project using gradient boosting to minimize RMSE and computation time when predicting used car prices.
+A regression machine learning project using Catboost and LightGBM gradient boosting to minimize RMSE and computation time when predicting used car prices.
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
