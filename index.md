@@ -16,10 +16,10 @@ A regression machine learning project using Catboost and LightGBM gradient boost
 ### [Classifying Movie Reviews](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
 <p align="center">
-  <img src="/images/important_features.png?raw=true" 
+  <img src="/images/nlp_f1.png?raw=true" 
   width="500"
   height="300"
-  alt="Important features LightGBM GBDT">
+  alt="F1 curve for nlp logistic regression">
 </p>
 
 [View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
