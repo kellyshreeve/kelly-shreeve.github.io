@@ -22,6 +22,8 @@ A regression machine learning project using Catboost and LightGBM gradient boost
   alt="F1 curve for nlp logistic regression">
 </p>
 
+A natural language processing project classifying moview reviews by polarity, using NLTK, spaCy, and BERT language processing.
+
 [View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
 ### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
