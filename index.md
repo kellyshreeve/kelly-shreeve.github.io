@@ -13,6 +13,17 @@ A regression machine learning project using Catboost and LightGBM gradient boost
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
+### [Classifying Movie Reviews](https://github.com/kellyshreeve/categorizing-customer-reviews)
+
+<p align="center">
+  <img src="/images/important_features.png?raw=true" 
+  width="500"
+  height="300"
+  alt="Important features LightGBM GBDT">
+</p>
+
+[View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
+
 ### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
 <p align="center">
