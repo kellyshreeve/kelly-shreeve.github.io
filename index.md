@@ -9,7 +9,7 @@
   alt="Important features LightGBM GBDT">
 </p>
 
-A regression machine learning project using Catboost and LightGBM gradient boosting to minimize RMSE and computation time when predicting used car prices.
+Regression machine learning project using Catboost and LightGBM gradient boosting to minimize RMSE and computation time when predicting used car prices.
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
@@ -22,7 +22,7 @@ A regression machine learning project using Catboost and LightGBM gradient boost
   alt="F1 curve for nlp logistic regression">
 </p>
 
-A natural language processing project classifying moview reviews by polarity, using NLTK, spaCy, and BERT language processing.
+Natural language processing project classifying moview reviews by polarity, using NLTK, spaCy, and BERT language processing.
 
 [View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
@@ -35,7 +35,7 @@ A natural language processing project classifying moview reviews by polarity, us
   alt="Line graph of gold recovery across stages">
 </p>
 
-An imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, and imblearn to maximize F1 score when predicting the insurance benefits customers are likely to receive.
+Imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, and imblearn to maximize F1 score when predicting the insurance benefits customers are likely to receive.
 
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
@@ -48,7 +48,7 @@ An imbalanced, binary and multi-class classification project using Pipelines, Gr
   alt="Line graph of gold recovery across stages">
 </p>
 
-A supervised machine learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore.
+Supervised machine learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore.
 
 [View Project on GitHub](https://github.com/kellyshreeve/gold-recovery)
 
