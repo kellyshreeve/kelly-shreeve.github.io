@@ -17,7 +17,7 @@ Regression machine learning project using Catboost and LightGBM gradient boostin
 
 <p align="center">
   <img src="/images/nlp_f1.png?raw=true" 
-  width="300"
+  width="350"
   height="300"
   alt="F1 curve for nlp logistic regression">
 </p>
