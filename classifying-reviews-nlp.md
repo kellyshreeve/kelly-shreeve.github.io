@@ -134,3 +134,5 @@ The Film Junky Union can feel confident putting this model into use, knowing it 
 
 With additional time, BERT could be further fine tuned on additional data. Additionally, more tuning parameters could be tested on gradient boosting models.
 
+[View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
+
