@@ -8,10 +8,10 @@
 </p>
 
 ## Project Overview
-<b>Background</b> 
+**Background**
 An NLP project that trains a model to correctly classify reviews from a dataset of IMBD movie reviews with polarity labelling.
 
-<b>Purpose</b>  
+**Purpose** 
 Train a model to automatically detect reviews as positive or negative polarity. Achieve an F1 score of at least 0.85.
 
 **Techiniques**  
@@ -32,24 +32,24 @@ Tokenization, Lemmatization, BERT, gradient boosting.
 
 ## Data
 
-**Source Data**
+### Source Data
 
 *imdb_reviews.csv*
 
-<b>Features</b>  
+**Features**  
 * *review* - the review text
 * *start_year* - year or release
 * *title_type* - type of movie
 * *ds_part* - 'train'/'test' for the train/test part of the dataset, correspondingly
 
-<b>Targets</b>  
+**Targets**  
  * *pos* - the target, '0' for negative and '1' for positive
  
-**Data Acquisition**
+### Data Acquisition
 
 The data were provided by TripleTen's Data Science bootcamp. The full dataset is loaded into the notebook but is proprietary information and cannot be shared online.
 
-**Data Preprocessing**
+### Data Preprocessing
 
 Variables missing data were all missing less than 15% of observations. Categorical missing values were filled with 'unknown' and quantitative missing values were imputed with medians. Duplicates were cleaned from the dataset.
 
