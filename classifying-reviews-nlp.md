@@ -1,7 +1,3 @@
-layout: default
-title: "Classifying Reviews Page"
-permalink: /classifying-reviews-nlp
-
 # Classifying Movie Reviews
 
 <p align="center">
