@@ -8,30 +8,27 @@
 </p>
 
 ## Project Overview
-**Background**  
-
+<b>Background</b> 
 An NLP project that trains a model to correctly classify reviews from a dataset of IMBD movie reviews with polarity labelling.
 
-**Purpose**  
-
+<b>Purpose</b>  
 Train a model to automatically detect reviews as positive or negative polarity. Achieve an F1 score of at least 0.85.
 
 **Techiniques**  
-
 Tokenization, Lemmatization, BERT, gradient boosting.
 
 ## Installation and Setup
 
-**Codes and Resources Used**
-  - <b>Editor Used</b>: Visual Studio Code
-  - <b>Python Version</b>: 3.10.9
+### Codes and Resources Used
+  - **Editor Used**: Visual Studio Code
+  - **Python Version**: 3.10.9
 
-**Python Packages Used**
-  - <b>General Purpose</b>: ```math, numpy, re, tqdm```  
-  - <b>Data Manipulation</b>: ```pandas```  
-  - <b>Data Visualization</b>: ```matplotlib, seaborn```  
-  - <b>Machine Learning</b>: ```sklearn, LightGBM```  
-  - <b>Natural Language Processing</b>: ```NLTK, spaCy, torch, transformers```
+### Python Packages Used
+  - **General Purpose**: ```math, numpy, re, tqdm```  
+  - **Data Manipulation**: ```pandas```  
+  - **Data Visualization**: ```matplotlib, seaborn```  
+  - **Machine Learning**: ```sklearn, LightGBM```  
+  - **Natural Language Processing**: ```NLTK, spaCy, torch, transformers```
 
 ## Data
 
