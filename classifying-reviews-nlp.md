@@ -89,11 +89,12 @@ The number of movies per year generally increases over time until 2006, when we 
 There are similar numbers of positive and negative reviews in the training and test sets. Additionally, the classes are mostly balanced in both the training and test sets.
 
 ### Train Results
+Logistic Regression with NLTK, TF-IDF
 
 <p align="left">
   <img src="/images/customer-reviews/best_results.png"
   width="700"
-  height="350"
+  height="300"
   alt="Train results">
 </p>
 
