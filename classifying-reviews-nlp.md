@@ -5,7 +5,7 @@ permalink: /classifying-reviews-nlp
 # Categorizing Customer Reviews
 
 <p align="center">
-  <img src="images/movie_clipart.png"
+  <img src="images/customer-reviews/movie_clipart.png"
   width="400"
   height="300"
   alt="Movie reel clip art">
@@ -74,7 +74,7 @@ Variables missing data were all missing less than 15% of observations. Categoric
 ## Exploratory Analysis
  
 <p align="left">
-  <img src="/images/polarity_time.png"
+  <img src="/images/customer-reviews/polarity_time.png"
   width="800"
   height="250"
   alt="sns pair plot of numeric variables">
@@ -83,7 +83,7 @@ Variables missing data were all missing less than 15% of observations. Categoric
 The number of movies per year generally increases over time until 2006, when we see a sharp decline in number of movies produced per year. There are generally similar numbers of positive and negative reviews per year.
 
 <p align="left">
-  <img src="/images/train_test_split.png" 
+  <img src="/images/customer-reviews/train_test_split.png" 
   width="450"
   height="300"
   alt="Correlation heatmap">
@@ -107,7 +107,7 @@ Logistic regression with text vectorized with NLTK TF-IDF was able to achieve a 
 Predicted probabilty of positive review using the NLTK TF-IDF logistic regression:
 
 <p align="left">
-  <img src="/images/review_probs.png"
+  <img src="/images/customer-reviews/review_probs.png"
   width="550"
   height="200"
   alt="Test results">
