@@ -118,6 +118,8 @@ Four models were trained and each did fairly well classifying the training set. 
 3. SpaCy, TF-IDF, and LightGBM (F1 = 0.87)
 4. BERT, Logistic Regression (F1 = 0.85)
 
+The best model is the logistic regression trained with NLTK, TF-IDF. This model achieved and F1 = 0.88 on the text set.
+
 ## Conclusions and Business Application
 
 ### Conclusions
