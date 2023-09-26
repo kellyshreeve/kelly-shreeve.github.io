@@ -1,6 +1,6 @@
-# Portfolio
+## Portfolio
 ---
-## [Predicting Used Car Price](https://kellyshreeve.github.io/predicting-used-car-price)
+### [Predicting Used Car Price](https://kellyshreeve.github.io/predicting-used-car-price)
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
@@ -13,7 +13,7 @@ Regression machine learning project using Catboost and LightGBM gradient boostin
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
-## [Classifying Movie Reviews](https://kellyshreeve.github.io/classifying-reviews-nlp)
+### [Classifying Movie Reviews](https://kellyshreeve.github.io/classifying-reviews-nlp)
 
 <p align="center">
   <img src="/images/nlp_f1.png?raw=true" 
