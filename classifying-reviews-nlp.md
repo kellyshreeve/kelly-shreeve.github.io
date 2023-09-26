@@ -8,10 +8,10 @@
 </p>
 
 ## Project Overview
-**Background**
+**Background**  
 An NLP project that trains a model to correctly classify reviews from a dataset of IMBD movie reviews with polarity labelling.
 
-**Purpose** 
+**Purpose**   
 Train a model to automatically detect reviews as positive or negative polarity. Achieve an F1 score of at least 0.85.
 
 **Techiniques**  
