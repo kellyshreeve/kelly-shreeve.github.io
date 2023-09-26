@@ -2,7 +2,7 @@ layout: default
 title: "Classifying Reviews Page"
 permalink: /classifying-reviews-nlp
 
-# Categorizing Customer Reviews
+# Classifying Customer Reviews
 
 <p align="center">
   <img src="images/customer-reviews/movie_clipart.png"
