@@ -94,7 +94,7 @@ There are similar numbers of positive and negative reviews in the training and t
 ## Train Results
 
 <p align="left">
-  <img src="/images/best_results.png"
+  <img src="/images/customer-reviews/best_results.png"
   width="750"
   height="350"
   alt="Train results">
