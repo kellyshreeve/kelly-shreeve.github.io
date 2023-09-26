@@ -1,6 +1,6 @@
 layout: default
 title: "Classifying Reviews Page"
-permalink: /classifying_reviews_nlp
+permalink: /classifying-reviews-nlp
 
 # Categorizing Customer Reviews
 
