@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### [Predicting Used Car Price](https://github.com/kellyshreeve/predicting-used-car-price)
+### [Predicting Used Car Price](https://kellyshreeve.github.io/predicting-used-car-price)
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
