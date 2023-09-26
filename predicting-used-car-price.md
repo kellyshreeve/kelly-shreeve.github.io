@@ -1,6 +1,6 @@
 # Predicting Used Car Price
 <p align="center">
-  <img src="images/used_car_clipart.png"
+  <img src="images/used-car-price/used_car_clipart.png"
   width="400"
   height="300"
   alt="Used car clip art">
@@ -80,7 +80,7 @@ Variables missing data were all missing less than 15% of observations. Categoric
 ### Exploratory Analysis
  
 <p align="left">
-  <img src="/images/pairplot.png"
+  <img src="/images/used-car-price/pairplot.png"
   width="500"
   height="500"
   alt="sns pair plot of numeric variables">
@@ -89,7 +89,7 @@ Variables missing data were all missing less than 15% of observations. Categoric
 There are no clear associations between the dependent variable price and registriation_year, power, mileage, or registration_month. There is also a possible violation of linearity between price and power.
 
 <p align="left">
-  <img src="/images/correlation_matrix.png" 
+  <img src="/images/used-car-price/correlation_matrix.png" 
   width="650"
   height="250"
   alt="Correlation heatmap">
@@ -100,7 +100,7 @@ Price has a moderate, positive correlation with registration year (r = 0.37) and
 ### Train Results
 
 <p align="left">
-  <img src="/images/train_results.png"
+  <img src="/images/used-car-price/train_results.png"
   width="450"
   height="250"
   alt="Train results">
@@ -111,7 +111,7 @@ LightGBM achieved the lowest RMSE (RMSE = 1739.38) and highest R^2 value (R^2 = 
 ### Test Results
 
 <p align="left">
-  <img src="/images/test_results.png"
+  <img src="/images/used-car-price/test_results.png"
   width="250"
   height="100"
   alt="Test results">
@@ -120,7 +120,7 @@ LightGBM achieved the lowest RMSE (RMSE = 1739.38) and highest R^2 value (R^2 = 
 LightGBM GBDT achieved a lower RMSE and higher R^2 on the test set (RMSE = 1663.85, R^2 = 0.86). The model is likely not overfit. It was able to make predictions in less than one second.
 
 <p align="left">
-  <img src="/images/important_features.png"
+  <img src="/images/used-car-price/important_features.png"
   width="550"
   height="350"
   alt="Important features plo">
@@ -141,3 +141,5 @@ Rusty Bargain will be able to implement this model in their app and be confident
 ### Future Research 
 
 With additional time, more hyperparameters and trees/iterations could be performed to improve model accuracy. Additionally, further data cleaning may improve the accuracy of the results.
+
+[View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
