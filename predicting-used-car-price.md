@@ -7,26 +7,29 @@
 </p>
 
 ## Project Overview
-**Background:** A regression problem predicting the price of used cars from vehicle make, model, mileage, and other specifications to implement into a customer-facing app.
+**Background**  
+A regression problem predicting the price of used cars from vehicle make, model, mileage, and other specifications to implement into a customer-facing app.
 
-**Purpose:** Train a regression model that accurately and quickly predicts the market value of a new customer's car, minimizing RMSE.
+**Purpose**  
+Train a regression model that accurately and quickly predicts the market value of a new customer's car, minimizing RMSE.
 
-**Techiniques:** One Hot Encoding, Pipelines, GridSearchCV, Linear Regression, Gradient Boosting with CatBoost and LightGBM.
+**Techiniques**  
+One Hot Encoding, Pipelines, GridSearchCV, Linear Regression, Gradient Boosting with CatBoost and LightGBM.
 
 ## Installation and Setup
 
 ### Codes and Resources Used
 
-  - <b>Editor Used</b>: Visual Studio Code
-  - <b>Python Version</b>: 3.10.9
+  - **Editor Used**: Visual Studio Code
+  - **Python Version**: 3.10.9
 
 ### Python Packages Used
 
-  - <b>General Purpose</b>: ```math, numpy, re, time```  
-  - <b>Data Manipulation</b>: ```pandas```  
-  - <b>Data Visualization</b>: ```matplotlib, seaborn```  
-  - <b>Machine Learning</b>: ```sklearn```  
-  - <b>Gradient Boosting</b>: ```catboost, lightgbm```
+  - **General Purpose**: ```math, numpy, re, time```  
+  - **Data Manipulation**: ```pandas```  
+  - **Data Visualization**: ```matplotlib, seaborn```  
+  - **Machine Learning**: ```sklearn```  
+  - **Gradient Boosting**: ```catboost, lightgbm```
 
 ## Data
 
@@ -34,7 +37,7 @@
 
 *car_data.csv*
 
-<b>Features</b>
+**Features**  
 * *vehicle_type* - vehicle body type
 * *registration_year* - vehicle registration year
 * *gearbox* - gearbox type
@@ -47,7 +50,7 @@
 * *not_repaired* - vehicle repaired or not 
 * *postal_code_trunc1000* - postal code truncated to 1000s place
 
-<b>Targets</b>
+**Targets**  
  * *price* - used car price (euros)
  
 ### Data Acquisition
