@@ -1,8 +1,8 @@
 # Predicting Used Car Price
 <p align="center">
   <img src="images/used-car-price/used_car_clipart.png"
-  width="400"
-  height="300"
+  width="350"
+  height="250"
   alt="Used car clip art">
 </p>
 
