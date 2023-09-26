@@ -71,8 +71,8 @@ Variables missing data were all missing less than 15% of observations. Categoric
  
 <p align="left">
   <img src="/images/customer-reviews/polarity_time.png"
-  width="800"
-  height="250"
+  width="700"
+  height="200"
   alt="sns pair plot of numeric variables">
 </p>
 
@@ -91,7 +91,7 @@ There are similar numbers of positive and negative reviews in the training and t
 
 <p align="left">
   <img src="/images/customer-reviews/best_results.png"
-  width="750"
+  width="700"
   height="350"
   alt="Train results">
 </p>
@@ -105,7 +105,7 @@ Predicted probabilty of positive review using the NLTK TF-IDF logistic regressio
 <p align="left">
   <img src="/images/customer-reviews/review_probs.png"
   width="550"
-  height="200"
+  height="175"
   alt="Test results">
 </p>
 
