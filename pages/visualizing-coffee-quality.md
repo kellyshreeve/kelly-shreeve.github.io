@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/images/coffee-quality/choropleth.png" 
-   width="450"
+   width="500"
    height="250"
   alt="Image of a cup of coffee on a bed of green leaves">
 </p>
