@@ -9,10 +9,10 @@
 
 ## Project Overview
 
-**Purpose**
+**Purpose**  
 Build a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore.  After identifying the best model, determine which factors are unprofitable.
 
-**Techniques**
+**Techniques**  
 Linear Regression, Decision Tree Regression, and Random Forest Regression were tuned and cross-validated to determine which model best minimizes sMAPE on the training set.
 
 <p align="center">
