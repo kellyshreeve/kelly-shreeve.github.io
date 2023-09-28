@@ -1,7 +1,7 @@
 # Predicting Gold Recovery from Ore
 
 <p align="center">
-  <img src="/images/gold-recovery/recovery_process.png" 
+  <img src="/images/gold_stages.png" 
   width=350
   height=250
   alt="Image of gold recovery stages">
@@ -10,6 +10,13 @@
 ## Project Overview
 
 This repository hosts an Supervised Machine Learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore. Linear Regression, Decision Tree Regression, and Random Forest Regression were tuned and cross-validated to determine which model best minimizes sMAPE on the training set. After identifying the best model, the model is used to determine which factors are unprofitable.
+
+<p align="center">
+  <img src="/images/gold-recovery/recovery_process.png" 
+  width=350
+  height=250
+  alt="Image of gold recovery stages">
+</p>
 
 ## Installation and Setup
 
@@ -86,8 +93,6 @@ Concentration of gold ore tends to increase though each stage of the recovery pr
 </p>
 
 Linear Regression achieved the best training sMAPE of 12.30 and this was confirmed with a final sMAPE of 7.30 on the test set. Upon viewing the regression output, some floatbank states were not signficant, though all of the chemical inputs were. The company may be able to loosen control over the floatbank states but should continue to be mindful of the chemical inputs during the process. 
-
-## Future Work
 
 ## Acknowledgments/References
 

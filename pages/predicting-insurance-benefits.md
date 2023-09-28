@@ -1,7 +1,7 @@
 # Predicting Insurance Benefits
 
 <p align="center">
-  <img src="/images/insurance-benefits/insurance_clipart.png"
+  <img src="/images/pairplot.png"
   width="350"
   height="250"
   alt="Insurance clip art">
