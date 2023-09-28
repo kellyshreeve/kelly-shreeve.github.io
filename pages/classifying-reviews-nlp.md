@@ -4,7 +4,7 @@
   <img src="images/nlp_f1.png"
   width="350"
   height="250"
-  alt="Movie reel clip art">
+  alt="F1 summary">
 </p>
 
 ## Project Overview
