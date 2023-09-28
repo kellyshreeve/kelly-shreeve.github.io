@@ -7,11 +7,8 @@
 </p>
 
 ## Project Overview
-**Background**  
-A regression problem predicting the price of used cars from vehicle make, model, mileage, and other specifications to implement into a customer-facing app.
-
 **Purpose**  
-Train a regression model that accurately and quickly predicts the market value of a new customer's car, minimizing RMSE.
+Train a regression model that accurately and quickly predicts the market value of a new customer's car from vehicle make, model, mileage, and other specifications, minimizing RMSE.
 
 **Techiniques**  
 One Hot Encoding, Pipelines, GridSearchCV, Linear Regression, Gradient Boosting with CatBoost and LightGBM.
