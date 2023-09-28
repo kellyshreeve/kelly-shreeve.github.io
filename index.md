@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-### [Predicting Used Car Price](https://kellyshreeve.github.io/predicting-used-car-price)
+### [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
@@ -13,7 +13,7 @@ Regression machine learning project using Catboost and LightGBM gradient boostin
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
-### [Classifying Movie Reviews](https://kellyshreeve.github.io/classifying-reviews-nlp)
+### [Classifying Movie Reviews](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)
 
 <p align="center">
   <img src="/images/nlp_f1.png?raw=true" 
@@ -26,7 +26,7 @@ Natural language processing project classifying moview reviews by polarity, usin
 
 [View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
-### [Predicting Insurance Benefits](https://kellyshreeve.github.io/predicting-insurance-benefits)
+### [Predicting Insurance Benefits](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)
 
 <p align="center">
   <img src="/images/pairplot.png?raw=true" 
@@ -52,7 +52,7 @@ Supervised machine learning project building a multi-output regression that mini
 
 [View Project on GitHub](https://github.com/kellyshreeve/gold-recovery)
 
-### [Visualizing Coffee Quality](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
+### [Visualizing Coffee Quality](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)
 
 <p align="center">
   <img src="/images/choropleth.png?raw=true" 
