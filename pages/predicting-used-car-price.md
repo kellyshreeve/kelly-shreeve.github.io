@@ -2,7 +2,7 @@
 <p align="center">
   <img src="/images/used-car-price/important_features.png"
   width="550"
-  height="350"
+  height="300"
   alt="Important features plo">
 </p>
 
