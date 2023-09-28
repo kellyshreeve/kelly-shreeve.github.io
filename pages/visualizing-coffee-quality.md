@@ -1,7 +1,7 @@
 # Visualizing Coffee Quality
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/Coffee_Quality_Visualizations/blob/main/images/coffee.png" 
+  <img src="/images/coffee-quality/coffee.png" 
    width="350"
    height="250"
   alt="Image of a cup of coffee on a bed of green leaves">
@@ -15,13 +15,13 @@ This project uses high-level plotly visualizations to visualize coffee quality a
 
 ### Codes and Resources Used
 
-  - <b>Editor Used</b>: Visual Studio Code
-  - <b>Python Version</b>: 3.10.9
+  -**Editor Used**: Visual Studio Code
+  -**Python Version**: 3.10.9
 
 ### Python Packages Used
 
-  - <b>Data Manipulation</b>: ```pandas```
-  - <b>Data Visualization</b>: ```matplotlib, plotly.express```
+  -**Data Manipulation**: ```pandas```
+  -**Data Visualization**: ```matplotlib, plotly.express```
 
 ## Data
 
@@ -73,17 +73,17 @@ Missing values in string variables were imputed with 'unknown'. Only one row was
 ## Results and Evaluation
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/Coffee_Quality_Visualizations/blob/main/images/choropleth.png" 
+  <img src="/images/coffee-quality/choropleth.png" 
   alt="Bar graph of average coffee quality measures by country">
 </p>
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/Coffee_Quality_Visualizations/blob/main/images/total_points_variety.png" 
+  <img src="/images/coffee-quality/total_points_variety.png" 
   alt="Boxplot of total points by variety">
 </p>
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/Coffee_Quality_Visualizations/blob/main/images/quality_altitude.png" 
+  <img src="/images/coffee-quality/quality_altitude.png" 
   alt="Scatter plot of total cup points by altitude">
 </p>
 
