@@ -17,7 +17,7 @@ Tokenization, Lemmatization, BERT, gradient boosting.
 ## Installation and Setup
 
 ### Codes and Resources Used
-  -**Editor Used**: Visual Studio Code
+  -**Editor Used**: Visual Studio Code  
   -**Python Version**: 3.10.9
 
 ### Python Packages Used
