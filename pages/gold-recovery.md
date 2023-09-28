@@ -9,7 +9,11 @@
 
 ## Project Overview
 
-This repository hosts an Supervised Machine Learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore. Linear Regression, Decision Tree Regression, and Random Forest Regression were tuned and cross-validated to determine which model best minimizes sMAPE on the training set. After identifying the best model, the model is used to determine which factors are unprofitable.
+**Purpose**
+Build a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore.  After identifying the best model, determine which factors are unprofitable.
+
+**Techniques**
+Linear Regression, Decision Tree Regression, and Random Forest Regression were tuned and cross-validated to determine which model best minimizes sMAPE on the training set.
 
 <p align="center">
   <img src="/images/gold-recovery/recovery_process.png" 
@@ -22,16 +26,16 @@ This repository hosts an Supervised Machine Learning project building a multi-ou
 
 ### Codes and Resources Used
 
-  - <b>Editor Used</b>: Visual Studio Code
-  - <b>Python Version</b>: 3.10.9
+  - **Editor Used**: Visual Studio Code
+  - **Python Version**: 3.10.9
 
 ### Python Packages Used
 
-  - <b>General Purpose</b>: numpy
-  - <b>Data Manipulation</b>: pandas
-  - <b>Data Visualization</b>: matplotlib
-  - <b>Statistical Analysis</b>: statsmodels
-  - <b>Machine Learning</b>: sklearn
+  - **General Purpose**: numpy
+  - **Data Manipulation**: pandas
+  - **Data Visualization**: matplotlib
+  - **Statistical Analysis**: statsmodels
+  - **Machine Learning**: sklearn
     
 ## Data
 
@@ -81,7 +85,9 @@ Data were checked for missing values and duplicates. Missing values were imputed
 
 <p align="center">
   <img src="/images/gold-recovery/gold_stages.png" 
-  alt="Line graph of gold concentration across stages">
+  alt="Line graph of gold concentration across stages"
+  width=500
+  height=500>
 </p>
 
 Concentration of gold ore tends to increase though each stage of the recovery process.
