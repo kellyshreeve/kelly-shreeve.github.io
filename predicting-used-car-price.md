@@ -20,16 +20,16 @@ One Hot Encoding, Pipelines, GridSearchCV, Linear Regression, Gradient Boosting 
 
 ### Codes and Resources Used
 
-  - **Editor Used**: Visual Studio Code
-  - **Python Version**: 3.10.9
+  -**Editor Used**: Visual Studio Code
+  -**Python Version**: 3.10.9
 
 ### Python Packages Used
 
-  - **General Purpose**: ```math, numpy, re, time```  
-  - **Data Manipulation**: ```pandas```  
-  - **Data Visualization**: ```matplotlib, seaborn```  
-  - **Machine Learning**: ```sklearn```  
-  - **Gradient Boosting**: ```catboost, lightgbm```
+  -**General Purpose**: ```math, numpy, re, time```  
+  -**Data Manipulation**: ```pandas```  
+  -**Data Visualization**: ```matplotlib, seaborn```  
+  -**Machine Learning**: ```sklearn```  
+  -**Gradient Boosting**: ```catboost, lightgbm```
 
 ## Data
 
