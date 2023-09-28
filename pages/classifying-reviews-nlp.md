@@ -68,9 +68,9 @@ Variables missing data were all missing less than 15% of observations. Categoric
 ### Exploratory Analysis
  
 <p align="left">
-  <img src="/images/customer-reviews/polarity_time.png"
-  width="700"
-  height="200"
+  <img src="/images/nlp_f1.png"
+  width="350"
+  height="250"
   alt="sns pair plot of numeric variables">
 </p>
 

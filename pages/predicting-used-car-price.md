@@ -1,7 +1,7 @@
 # Predicting Used Car Price
 <p align="center">
   <img src="/images/used-car-price/important_features.png"
-  width="550"
+  width="525"
   height="275"
   alt="Important features plo">
 </p>
