@@ -15,17 +15,17 @@ This project uses high-level plotly visualizations to visualize coffee quality a
 
 ### Codes and Resources Used
 
-  -**Editor Used**: Visual Studio Code  
-  -**Python Version**: 3.10.9
+  - **Editor Used**: Visual Studio Code  
+  - **Python Version**: 3.10.9
 
 ### Python Packages Used
 
-  -**Data Manipulation**: ```pandas```  
-  -**Data Visualization**: ```matplotlib, plotly.express```
+  - **Data Manipulation**: pandas  
+  - **Data Visualization**: matplotlib, plotly.express
 
 ## Data
 
-### Source Data
+### Data Files
 
 Coffee Quality and Sustainability
   * *country_of_origin*: Country coffee was grown in  

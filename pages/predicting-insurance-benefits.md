@@ -27,19 +27,19 @@ KNN and random forest multi-class classification are fit to maximize macro-avera
 
 ### Codes and Resources Used
 
-  -**Editor Used**: Visual Studio Code  
-  -**Python Version**: 3.10.9
+  - **Editor Used**: Visual Studio Code  
+  - **Python Version**: 3.10.9
 
 ### Python Packages Used
 
-  -**General Purpose**: ```numpy```  
-  -**Data Manipulation**: ```pandas```  
-  -**Data Visualization**: ```matplotlib, seaborn```  
-  -**Machine Learning**: ```imblearn, sklearn```  
+  - **General Purpose**: numpy  
+  - **Data Manipulation**: pandas  
+  - **Data Visualization**: matplotlib, seaborn  
+  - **Machine Learning**: imblearn, sklearn  
 
 ## Data
 
-### Source Data
+### Data Files
 **Features**
   * *gender*: customer's gender  
   * *age*: customer's age    

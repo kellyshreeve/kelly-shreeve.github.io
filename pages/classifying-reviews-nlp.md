@@ -1,7 +1,7 @@
 # Classifying Movie Reviews
 
 <p align="center">
-  <img src="images/customer-reviews/movie_clipart.png"
+  <img src="images/nlp_f1.png"
   width="350"
   height="250"
   alt="Movie reel clip art">
@@ -17,19 +17,19 @@ Tokenization, Lemmatization, BERT, gradient boosting.
 ## Installation and Setup
 
 ### Codes and Resources Used
-  -**Editor Used**: Visual Studio Code  
-  -**Python Version**: 3.10.9
+  - **Editor Used**: Visual Studio Code  
+  - **Python Version**: 3.10.9
 
 ### Python Packages Used
-  -**General Purpose**: ```math, numpy, re, tqdm```  
-  -**Data Manipulation**: ```pandas```  
-  -**Data Visualization**: ```matplotlib, seaborn```  
-  -**Machine Learning**: ```sklearn, LightGBM```  
-  -**Natural Language Processing**: ```NLTK, spaCy, torch, transformers```
+  - **General Purpose**: math, numpy, re, tqdm  
+  - **Data Manipulation**: pandas  
+  - **Data Visualization**: matplotlib, seaborn  
+  - **Machine Learning**: sklearn, LightGBM  
+  - **Natural Language Processing**: NLTK, spaCy, torch, transformers
 
 ## Data
 
-### Source Data
+### Data Files
 
 *imdb_reviews.csv*
 

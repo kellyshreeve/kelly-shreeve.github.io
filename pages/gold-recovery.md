@@ -20,17 +20,15 @@ This repository hosts an Supervised Machine Learning project building a multi-ou
 
 ### Python Packages Used
 
-  - <b>General Purpose</b>: ```numpy```
-  - <b>Data Manipulation</b>: ```pandas```
-  - <b>Data Visualization</b>: ```matplotlib```
-  - <b>Statistical Analysis</b>: ```statsmodels```
-  - <b>Machine Learning</b>: ```sklearn```
+  - <b>General Purpose</b>: numpy
+  - <b>Data Manipulation</b>: pandas
+  - <b>Data Visualization</b>: matplotlib
+  - <b>Statistical Analysis</b>: statsmodels
+  - <b>Machine Learning</b>: sklearn
     
 ## Data
 
-### Source Data
-
-#### Data Files
+### Data Files
 
 Three data sets contain information on the full set, training set, and test set:  
 
