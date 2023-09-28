@@ -75,10 +75,10 @@ Data were checked for missing values and duplicates. None were found and no impu
 
 ### Exploratory Analysis
  
-<p align="left">
+<p align="center">
   <img src="/images/insurance-benefits/eda.png"
   width="400"
-  height="400"
+  height="300"
   alt="sns pair plot of variables colored by receiving benefits">
 </p>
 
