@@ -94,3 +94,5 @@ Linear Regression achieved the best training sMAPE of 12.30 and this was confirm
 ## Acknowledgments/References
 
 TripleTen's Data Science bootcamp for providing the project and the data.
+
+[View Project on Github](https://github.com/kellyshreeve/gold-recovery)

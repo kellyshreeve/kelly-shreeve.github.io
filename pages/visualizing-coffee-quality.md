@@ -99,3 +99,4 @@ In future work, additional data should be brought in with larger quality variati
 
 Data from TripleTen's Data Science Data Visualization Weekend Challenge.
 
+[View Project on Github](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)

@@ -39,7 +39,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
-### [Predicting Gold Recovery from Ore](https://github.com/kellyshreeve/gold-recovery)
+### [Predicting Gold Recovery from Ore](https://kellyshreeve.github.io/pages/gold-recovery)
 
 <p align="center">
   <img src="/images/gold_stages.png?raw=true" 
