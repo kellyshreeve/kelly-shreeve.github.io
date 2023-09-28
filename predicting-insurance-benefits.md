@@ -127,3 +127,5 @@ The random forest model with SMOTEENN and class weighting achieved similar resul
 ## Conclusions
 
 Both models proved to be excellent predictors of the benefits a customer will receive based on their gender, age, income, and family size. Sure Tomorrow can feel confident putting this models into practice to predict numbers of benefits new customers are expected to use. They can use these models to set accurate premiums and maximums for customers, based on their expected use.
+
+[View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)

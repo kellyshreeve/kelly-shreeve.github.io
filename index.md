@@ -26,7 +26,7 @@ Natural language processing project classifying moview reviews by polarity, usin
 
 [View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
-### [Predicting Insurance Benefits](https://github.com/kellyshreeve/predicting-insurance-benefits)
+### [Predicting Insurance Benefits](https://kellyshreeve.github.io/predicting-insurance-benefits)
 
 <p align="center">
   <img src="/images/pairplot.png?raw=true" 
