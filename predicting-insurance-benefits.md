@@ -1,13 +1,13 @@
 # Predicting Insurance Benefits
 
+## Project Overview
+
 <p align="center">
   <img src="/images/insurance-benefits/insurance_clipart.png"
-  width="400"
-  height="300"
+  width="350"
+  height="250"
   alt="Insurance clip art">
 </p>
-
-## Project Overview
 
 **Purpose**   
 An imbalanced classification supervised machine learning project predicting two outomes:  
