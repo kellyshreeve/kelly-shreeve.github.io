@@ -1,7 +1,5 @@
 # Predicting Insurance Benefits
 
-## Project Overview
-
 <p align="center">
   <img src="/images/insurance-benefits/insurance_clipart.png"
   width="350"
@@ -9,8 +7,9 @@
   alt="Insurance clip art">
 </p>
 
-**Purpose**   
+## Project Overview 
 
+**Purpose**   
 An imbalanced classification supervised machine learning project predicting two outomes:  
 1) Whether a customer will use insurance benefits
 3) How many benefits a customer will use  
