@@ -11,6 +11,7 @@
 
 **Purpose**   
 An imbalanced classification supervised machine learning project predicting two outomes:  
+
 1) Whether a customer will use insurance benefits  
 2) How many benefits a customer will use  
 
