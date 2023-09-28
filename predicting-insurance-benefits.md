@@ -1,7 +1,7 @@
 # Predicting Insurance Benefits
 
 <p align="center">
-  <img src="https://github.com/kellyshreeve/predicting-insurance-benefits/blob/main/images/insurance_clipart.png"
+  <img src="/images/insurance-benefits/insurance_clipart.png"
   width="400"
   height="300"
   alt="Insurance clip art">
@@ -75,7 +75,7 @@ Data were checked for missing values and duplicates. None were found and no impu
 ### Exploratory Analysis
  
 <p align="left">
-  <img src="/images/eda.png"
+  <img src="/images/insurance-benefits/eda.png"
   width="600"
   height="600"
   alt="sns pair plot of variables colored by receiving benefits">
@@ -87,7 +87,7 @@ There is clustering in insurance benefits by age.
 
 
 <p align="left">
-  <img src="/images/binary_results.png" 
+  <img src="/images/insurance-benefits/binary_results.png" 
   width="500"
   height="250"
   alt="Results of binary classification model tuning">
@@ -96,7 +96,7 @@ There is clustering in insurance benefits by age.
 The best binary classifier is a logistic regression with threshold optimized to 0.43. This model achieved an F1, ROC AUC, accuracy, precision, and recall of 1.0 on the cross-validated training data.
 
 <p align="left">
-  <img src="/images/binary_test.png"
+  <img src="/images/insurance-benefits/binary_test.png"
   width="310"
   height="90"
   alt="Test results of logistic regression with threshold = 0.43">
@@ -107,7 +107,7 @@ On the test set, the logistic regression with threshold = 0.43 again achieved sc
 ### Multi-Class Classification
 
 <p align="left">
-  <img src="/images/multi_results.png"
+  <img src="/images/insurance-benefits/multi_results.png"
   width="690"
   height="250"
   alt="Results of multi class classification model tuning">
@@ -116,7 +116,7 @@ On the test set, the logistic regression with threshold = 0.43 again achieved sc
 The random forest model with SMOTEENN balanced and weighted classes achieved the best multi-class classification results, scoring a macro-averaged F1 score of 0.9894.
 
 <p align="left">
-  <img src="/images/multi_test.png"
+  <img src="/images/insurance-benefits/multi_test.png"
   width="510"
   height="100"
   alt="Test results of random forest multi class classification">
