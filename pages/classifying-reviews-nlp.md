@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="images/customer-reviews/movie_clipart.png"
-  width="400"
-  height="300"
+  width="350"
+  height="250"
   alt="Movie reel clip art">
 </p>
 
