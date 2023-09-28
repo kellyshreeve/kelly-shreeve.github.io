@@ -44,7 +44,7 @@ Tokenization, Lemmatization, BERT, gradient boosting.
  
 ### Data Acquisition
 
-The data were provided by TripleTen's Data Science bootcamp. The full dataset is loaded into the notebook but is proprietary information and cannot be shared online.
+The data were provided by TripleTen's Data Science bootcamp. 
 
 ### Data Preprocessing
 
@@ -91,7 +91,7 @@ Logistic Regression with NLTK, TF-IDF
 <p align="left">
   <img src="/images/customer-reviews/best_results.png"
   width="700"
-  height="300"
+  height="250"
   alt="Train results">
 </p>
 

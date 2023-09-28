@@ -56,7 +56,7 @@ Observations close to each other in time are often similar.
 
 ### Data Acquisition
 
-The data were provided by TripleTen's Data Science bootcamp. The full dataset is loaded into the notebook but is proprietary information and cannot be shared online with the project.
+The data were provided by TripleTen's Data Science bootcamp. 
 
 ### Data Preprocessing
 

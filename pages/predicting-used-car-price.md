@@ -52,7 +52,7 @@ One Hot Encoding, Pipelines, GridSearchCV, Linear Regression, Gradient Boosting 
  
 ### Data Acquisition
 
-The data were provided by TripleTen's Data Science bootcamp. The full dataset is loaded into the notebook but is proprietary information and cannot be shared online.
+The data were provided by TripleTen's Data Science bootcamp. 
 
 ### Data Preprocessing
 
