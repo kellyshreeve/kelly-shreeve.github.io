@@ -1,9 +1,9 @@
 # Classifying Movie Reviews
 
 <p align="center">
-  <img src="/images/pairplot.png"
+  <img src="/images/nlp_f1.png"
   width="350"
-  height="250"
+  height="300"
   alt="F1 summary chart">
 </p>
 
