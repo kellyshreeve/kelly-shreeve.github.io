@@ -86,8 +86,8 @@ Data were checked for missing values and duplicates. Missing values were imputed
 <p align="center">
   <img src="/images/gold-recovery/gold_stages.png" 
   alt="Line graph of gold concentration across stages"
-  width=400
-  height=400>
+  width=450
+  height=350>
 </p>
 
 Concentration of gold ore tends to increase though each stage of the recovery process.
