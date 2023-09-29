@@ -67,11 +67,11 @@ Variables missing data were all missing less than 15% of observations. Categoric
 
 ### Exploratory Analysis
  
-<p align="left">
+<p align="center">
   <img src="/images/nlp_f1.png"
   width="350"
   height="250"
-  alt="sns pair plot of numeric variables">
+  alt="F1 summary chart">
 </p>
 
 The number of movies per year generally increases over time until 2006, when we see a sharp decline in number of movies produced per year. There are generally similar numbers of positive and negative reviews per year.
