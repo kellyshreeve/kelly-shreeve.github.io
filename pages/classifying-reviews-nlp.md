@@ -1,10 +1,10 @@
 # Classifying Movie Reviews
 
 <p align="center">
-  <img src="images/nlp_f1.png"
+  <img src="/images/nlp_f1.png"
   width="350"
   height="250"
-  alt="F1 summary">
+  alt="F1 summary chart">
 </p>
 
 ## Project Overview
