@@ -10,7 +10,7 @@
 
 1. [Project Overview](#overview)  
 2. [Installation and Setup](#setup)  
-3. [Data](#data)  
+3. [Data Source and Preparation](#data)  
 4. [Results and Evaluation](#results)  
 5. [Conclusions and Business Recommendations](#conclusions)  
 
@@ -36,7 +36,7 @@
   - <b>Machine Learning</b>: ```sklearn, imblearn```  
   - <b>Gradient Boosting</b>: ```catboost, lightgbm, xgboost```
 
-### 3. Data<a id='data'></a>
+### 3. Data Source and Preparation<a id='data'></a>
 
 *contract_df.csv*, *internet_df.csv*, *personal_df.csv*, *phone_df.csv*
 
