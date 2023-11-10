@@ -1,6 +1,6 @@
 ## Final Project: Predicting Telecom Customer Churn
 <p align="center">
-  <img src="images/customer-churn/churn_over_time.png"
+  <img src="/images/customer-churn/churn_over_time.png?raw=true"
   width="600"
   height="300"
   alt="Churn over time">
