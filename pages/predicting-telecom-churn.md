@@ -3,7 +3,7 @@
   <img src="images/customer-churn/churn_over_time.png"
   width="600"
   height="300"
-  alt="Phone clip art">
+  alt="Churn over time">
 </p>
 
 ### Table of Contents
