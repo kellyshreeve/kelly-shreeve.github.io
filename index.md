@@ -4,7 +4,7 @@
 ### [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
 <p align="center">
-  <img src="/images/customer-churn/churn_over_time?raw=true" 
+  <img src="/images/customer-churn/churn_over_time.png?raw=true" 
   width="600"
   height="300"
   alt="Customer churn over time">
