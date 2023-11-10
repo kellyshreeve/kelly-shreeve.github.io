@@ -7,7 +7,7 @@
   <img src="/images/customer-churn/churn_over_time?raw=true" 
   width="600"
   height="300"
-  alt="Important features LightGBM GBDT">
+  alt="Customer churn over time">
 </p>
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
