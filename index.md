@@ -1,5 +1,17 @@
 ## Portfolio
 ---
+
+### [Predicting Telecom Customer Churn](https://github.com/kellyshreeve/predicting-telecom-customer-churn)  
+
+<p align="center">
+  <img src="/images/customer-churn/churn_over_time?raw=true" 
+  width="600"
+  height="300"
+  alt="Important features LightGBM GBDT">
+</p>
+
+Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
+
 ### [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
 
 <p align="center">
@@ -9,7 +21,7 @@
   alt="Important features LightGBM GBDT">
 </p>
 
-Regression machine learning project using Catboost and LightGBM gradient boosting to minimize RMSE and computation time when predicting used car prices.
+Regression machine learning project using Catboost and LightGBM to minimize RMSE and computation time when predicting used car prices.
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
