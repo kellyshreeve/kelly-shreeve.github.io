@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-### [Predicting Telecom Customer Churn](https://github.com/kellyshreeve/predicting-telecom-customer-churn)  
+### [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
 <p align="center">
   <img src="/images/customer-churn/churn_over_time?raw=true" 
@@ -11,6 +11,8 @@
 </p>
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
+
+[View Project on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
 
 ### [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
 
