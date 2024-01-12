@@ -7,7 +7,9 @@
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
-Geo-location data was used to map and optimize a route around the world. I found, obtained, and cleaned a geo-location data set, used the data to visualize and optimize the global route in Python, then passed the solution to software engineers to integrate into a webpage. The results is a well-designed site where users can find and interact with a data science solution.
+Geo-location data was used to map and optimize a route around the world. I found, obtained, and cleaned a geo-location data set then used the data to visualize and optimize the global route in Python. 
+
+I passed the DS solution to software engineers to integrate into a webpage. The results is a well-designed site where users can find and interact with a data science solution.
 
 #### Live
 
