@@ -1,4 +1,4 @@
-### Global Route Optimization
+## Global Route Optimization
 
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
