@@ -9,7 +9,7 @@
 
 Geo-location data was used to map and optimize a route around the world. I found, obtained, and cleaned a geo-location data set then used the data to visualize and optimize the global route in Python. 
 
-I passed the DS solution to software engineers to integrate into a webpage. The results is a well-designed site where users can find and interact with a data science solution.
+I passed the optimized solution to software engineers who integrated it into a webpage. The results is a well-designed site where users can find and interact with a data science solution.
 
 #### Live
 
@@ -59,7 +59,7 @@ Random Route Time: 36.14 Hours
 
 #### Optimized Model
 
-With Concorde library, Santa's route was optimized to the shortest distance possible. This library was developed specifically to solve the Traveling Sales Man problem and can quickly and efficiently solve the best route between locations. A matrix of Haversine distances was fed into the model, and this was the result:
+With Concorde library, Santa's route was optimized to the shortest distance possible. This library was developed specifically to solve the Traveling Sales Man problem and can quickly and efficiently solve the best route between locations:
 
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
@@ -86,6 +86,6 @@ Santa has a big night ahead of him, delivering presents around the globe. Merry 
 
 First, a random route was chosen as a baseline (if santa chose his next location off vibes). In his sub-optimal route, santa had to travel 50,000 miles and needed 35 hours to make it around the world. He wouldn't have made it in time!  
 
-With Merry Mailer's specialized route optimization algorithm, we were able to take santa's trip down to 31,000 miles and just under 24 hours. This algorithm used state-of the art Concorde library and Haversine distance to minimize santa's distance delivering from one house to another and speedily found an optimal solution in 0.03 seconds! We're taking the pressure off santa by telling him to travel in this order: Afghanistan, Russia, Australia, Antarctica, Bolivia, United States, Greenland, France, Central African Republic. With our modeling sofware, santa can feel good about making it everywhere he needs to go.  
+With Merry Mailer's specialized route optimization algorithm, we were able to take santa's trip down to 31,000 miles and just under 24 hours. This algorithm used state-of the art Concorde library and Haversine distance to minimize santa's distance delivering from one house to another and speedily found an optimal solution in 0.03 seconds! We're taking the pressure off santa by telling him to travel in this order: Afghanistan, Russia, Australia, Antarctica, Bolivia, United States, Greenland, France, Central African Republic. With our modeling sofware, santa save 20,000 miles and can feel good about making it everywhere he needs to go.  
 
 What's next for Merry Mailers? We're committed to follow up with each of our clients. We'll measure santa's success this season, and maybe add some more locations into our optimizer for next year. And it looks like we'll be staying busy through the year - the Easter Bunny, St. Nicholas, and Tooth Fairy have been knocking at our door.
