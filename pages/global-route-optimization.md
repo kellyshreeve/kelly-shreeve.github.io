@@ -1,4 +1,4 @@
-## Global Route Optimization
+# Global Route Optimization
 
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
@@ -11,11 +11,11 @@ Geo-location data was used to map and optimize a route around the world. I found
 
 I passed the optimized solution to software engineers who integrated it into a webpage. The results is a well-designed site where users can find and interact with a data science solution that won first place in the Jingle Bell Code Jam, December 2023.
 
-#### Live
+## Live
 
 <a href="https://skovakina.github.io/jingle-bells-jam/" target="_blank">Our project live</a>
 
-#### Data Set
+## Data
 
 A data set of longitude and latitudes for each country around the world was found open-source on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/alexkaechele/country-geo). 
 
@@ -28,7 +28,7 @@ country.csv
 
 The dataset contains information on country abbreviation, latitude, and longitude for 245 countries around the world. The data were explored for missing values, duplicates, and incorrect values. Only one missing value was found, and it was dropped from the data. Data were otherwise in good condition and ready for analysis.
 
-#### Approach
+## Approach
 
 This problem is a take on the 'Traveling Sales Man' problem to optimize the route between multiple locations.  
 
@@ -36,7 +36,7 @@ Concorde library in Python optimizes the route between many locations, with quic
 
 *Haversine* distance to calculates 'as the bird flies' while taking into account the curvature of the earth.
 
-#### Random Model
+## Random Model
 
 First, a random model was fit as a baseline to find distance and time it would take Santa without data. This model chooses the next city randomly (if santa chose off vibes), and calculates the Haversine distance along the random route:
 
@@ -57,7 +57,7 @@ Random Route Distance: 46977.53 miles
 
 Random Route Time: 36.14 Hours
 
-#### Optimized Model
+## Optimized Model
 
 With Concorde library, Santa's route was optimized to the shortest distance possible. This library was developed specifically to solve the Traveling Sales Man problem and can quickly and efficiently solve the best route between locations:
 
@@ -80,7 +80,7 @@ Optimized Time: 23.91 hours
 
 Time to Calculate Solution: 0.03 seconds
 
-#### Conclusions  
+## Conclusions  
 
 Santa has a big night ahead of him, delivering presents around the globe. Merry Mailers wants to help him optimize his trip! To create a model of his trip, nine locations were chosen from around the world: United States, Bolivia, Greenland, Antarctica, France, Central African Republic, Afhanistan, Russia, and Australia.  
 
