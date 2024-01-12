@@ -1,7 +1,7 @@
-## Portfolio
+# Portfolio
 ---
 
-### [Global Route Optimization](https://kellyshreeve.github.io/pages/global-route-optimization)
+## [Global Route Optimization](https://kellyshreeve.github.io/pages/global-route-optimization)
 
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
@@ -12,7 +12,7 @@
 
 *First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
-### [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
+## [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
 <p align="center">
   <img src="/images/customer-churn/churn_over_time.png?raw=true" 
@@ -25,7 +25,7 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
 
-### [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
+## [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
@@ -38,7 +38,7 @@ Regression machine learning project using Catboost and LightGBM to minimize RMSE
 
 [View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
-### [Classifying Movie Reviews](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)
+## [Classifying Movie Reviews](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)
 
 <p align="center">
   <img src="/images/nlp_f1.png?raw=true" 
@@ -51,7 +51,7 @@ Natural language processing project classifying moview reviews by polarity, usin
 
 [View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
-### [Predicting Insurance Benefits](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)
+## [Predicting Insurance Benefits](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)
 
 <p align="center">
   <img src="/images/pairplot.png?raw=true" 
@@ -64,7 +64,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
-### [Visualizing Coffee Quality](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)
+## [Visualizing Coffee Quality](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)
 
 <p align="center">
   <img src="/images/choropleth.png?raw=true" 
