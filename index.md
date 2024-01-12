@@ -10,7 +10,7 @@
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
-Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage.
+Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. Project won first place in the Jingle Bell Code Jam, December 2023.
 
 ### [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
