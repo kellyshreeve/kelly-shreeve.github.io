@@ -64,19 +64,6 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 
 [View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
-### [Predicting Gold Recovery from Ore](https://kellyshreeve.github.io/pages/gold-recovery)
-
-<p align="center">
-  <img src="/images/gold_stages.png?raw=true" 
-  width="400"
-  height="300"
-  alt="Line graph of gold recovery across stages">
-</p>
-
-Supervised machine learning project building a multi-output regression that minimizes symmetric Mean Absolute Error (sMAPE) when predicting gold recovery from ore.
-
-[View Project on GitHub](https://github.com/kellyshreeve/gold-recovery)
-
 ### [Visualizing Coffee Quality](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)
 
 <p align="center">
