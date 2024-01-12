@@ -7,7 +7,11 @@
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
-Geo-location data was used to map and optimize a route around the world. I found, obtained, and cleaned a geo-location data set then used the data to visualize and optimize the global route in Python.
+A project using geo-location data for each country around the world to map and optimize a route around the world. This was a team collaboration between data science and software engineers. As the resident data scientist, I found, obtained, and cleaned a geo-location data set, used the data to visualize and optimize the global route in Python, then passed the solution to software engineers to integrate into a webpage. The results is a well-designed site where users can find and interact with a data science solution.
+
+#### Live
+
+- [Our project live](https://skovakina.github.io/jingle-bells-jam/)
 
 #### Data Set
 
