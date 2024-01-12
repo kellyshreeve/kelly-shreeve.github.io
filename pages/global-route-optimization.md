@@ -15,6 +15,8 @@ I passed the optimized solution to software engineers who integrated it into a w
 
 - [Our project live](https://skovakina.github.io/jingle-bells-jam/)
 
+<a href="https://skovakina.github.io/jingle-bells-jam/" target="_blank">Our project live</a>
+
 #### Data Set
 
 A data set of longitude and latitudes for each country around the world was found open-source on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/alexkaechele/country-geo). 
