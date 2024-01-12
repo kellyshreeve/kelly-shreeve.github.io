@@ -1,6 +1,17 @@
 ## Portfolio
 ---
 
+### [Global Route Optimization](https://kellyshreeve.github.io/pages/global-route-optimization)
+
+<p align="center">
+  <img src="/images/route-optimization/optimized-route.png?raw=true" 
+  width="600"
+  height="300"
+  alt="Map using geo-location data to display an optimized route around the world">
+</p>
+
+Analyzed geo-location data to optimize a global route around the world and collaborated with software engineers to integrate solution onto webpage.
+
 ### [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
 <p align="center">
