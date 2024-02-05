@@ -67,6 +67,7 @@ Natural language processing project classifying moview reviews by polarity, usin
 [View Project](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)  
 [View Code on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
+<!---
 ## Predicting Insurance Benefits
 
 <p align="center">
@@ -80,6 +81,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 
 [View Project](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)  
 [View Code on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
+-->
 
 ## Visualizing Coffee Quality
 
