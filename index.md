@@ -11,7 +11,7 @@
 </p>
  
 [View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/)  
-[View Project](https://kellyshreeve.github.io/pages/natural-landscape-classifier)
+[View Project](https://kellyshreeve.github.io/pages/natural-landscape-classifier)  
 [View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
 
 ## Global Route Optimization
@@ -39,7 +39,7 @@
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) 
+[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 [View Code on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
 
 ## [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
