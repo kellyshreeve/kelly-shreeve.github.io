@@ -12,7 +12,7 @@
  
  Deep learning, neural-network-driven web app that correctly classifies images as farm, solar field, neighborhood, or lake.  
 
-<a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Web App</a>  - <a href='https://kellyshreeve.github.io/pages/natural-landscape-classifier' target='_blank'>Project Overview</a> - <a href='https://github.com/kellyshreeve/natural-landscape-image-classifier' target='_blank'>Project Code on Github</a>
+<a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Web App</a>  - <a href='https://kellyshreeve.github.io/pages/natural-landscape-classifier' target='_blank'>Project Overview</a> - <a href='https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/final-model/Natural-Landscape-Image-Classifier.ipynb' target='_blank'>Project Code on Github</a>
 
 ## Global Route Optimization
 
@@ -25,7 +25,7 @@
 
 *First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to optimize a route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
-[Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam' target='_blank'>Project Code on Github</a>
+[Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam/blob/main/notebooks/merry_mailers_route_optimizer.ipynb' target='_blank'>Project Code on Github</a>
 
 ## Predicting Telecom Customer Churn
 
