@@ -83,7 +83,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 [View Code on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 -->
 
-## Visualizing Coffee Quality 08/2023
+## Visualizing Coffee Quality - 08/2023
 
 <p align="center">
   <img src="/images/choropleth.png?raw=true" 
