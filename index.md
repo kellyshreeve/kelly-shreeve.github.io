@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## [Natural Landscape Computer Vision Web App]
+## Natural Landscape Computer Vision Classifier Web App
 
 <p align="center">
   <img src="/images/we-app-screenshot.png?raw=true" 
@@ -11,7 +11,7 @@
 </p>
  
 [View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/)  
-[View Project] 
+[View Project](https://kellyshreeve.github.io/pages/natural-landscape-classifier)
 [View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
 
 ## Global Route Optimization
