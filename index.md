@@ -25,7 +25,7 @@
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
-*First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
+*First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
 [View Project](https://kellyshreeve.github.io/pages/global-route-optimization)  
 [View Code on Github](https://github.com/skovakina/jingle-bells-jam)
