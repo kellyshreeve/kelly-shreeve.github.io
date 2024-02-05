@@ -55,7 +55,7 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
 
 Regression machine learning project using Catboost and LightGBM to minimize RMSE and computation time when predicting used car prices.  
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price)
+[View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price)  
 [View Code on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
 ## Classifying Movie Reviews
@@ -83,7 +83,7 @@ Natural language processing project classifying moview reviews by polarity, usin
 
 Imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, and imblearn to maximize F1 score when predicting the insurance benefits customers are likely to receive.  
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)
+[View Project](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)  
 [View Code on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
 ## Visualizing Coffee Quality
