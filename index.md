@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## Computer Vision Web App
+## Computer Vision Web App - 02/2024
 
 <p align="center">
   <img src="/images/landscape-classifier/web-app-screenshot.png?raw=true" 
@@ -14,7 +14,7 @@
 
 <a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Web App</a>  - <a href='https://kellyshreeve.github.io/pages/natural-landscape-classifier' target='_blank'>Project Overview</a> - <a href='https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/final-model/Natural-Landscape-Image-Classifier.ipynb' target='_blank'>Project Code on Github</a>
 
-## Global Route Optimization
+## Global Route Optimization - 12/2023
 
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
@@ -27,7 +27,7 @@
 
 [Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam/blob/main/notebooks/merry_mailers_route_optimizer.ipynb' target='_blank'>Project Code on Github</a>
 
-## Predicting Telecom Customer Churn
+## Predicting Telecom Customer Churn - 11/2023
 
 <p align="center">
   <img src="/images/customer-churn/churn_over_time.png?raw=true" 
@@ -40,7 +40,7 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
 
 [View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn' target='_blank'>Project Code on Github</a>
 
-## Predicting Used Car Price
+## Predicting Used Car Price - 10/2023
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
@@ -53,7 +53,7 @@ Regression machine learning project using Catboost and LightGBM to minimize RMSE
 
 [View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price) - <a href='https://github.com/kellyshreeve/predicting-used-car-price' target='_blank'>Project Code on Github</a>
 
-## Classifying Movie Reviews
+## Classifying Movie Reviews - 10/2023
 
 <p align="center">
   <img src="/images/nlp_f1.png?raw=true" 
@@ -83,7 +83,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 [View Code on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 -->
 
-## Visualizing Coffee Quality
+## Visualizing Coffee Quality 08/2023
 
 <p align="center">
   <img src="/images/choropleth.png?raw=true" 
