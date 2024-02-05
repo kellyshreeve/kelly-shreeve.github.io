@@ -1,6 +1,17 @@
 # Portfolio
 ---
 
+## [Natural Landscape Computer Vision Web App]
+
+<p align="center">
+  <img src="/images/we-app-screenshot.png?raw=true" 
+  width="600"
+  height="300"
+  alt="Image of a Natural Landscape Classifier Web App">
+</p>
+
+[View Project]  [View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/) [View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
+
 ## [Global Route Optimization](https://kellyshreeve.github.io/pages/global-route-optimization)
 
 <p align="center">
@@ -12,7 +23,7 @@
 
 *First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
-[View Project] [View Code on Github] 
+[View Project](https://kellyshreeve.github.io/pages/global-route-optimization) [View Code on Github] 
 
 ## [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
@@ -25,7 +36,8 @@
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) [View Code on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
+[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) 
+[View Code on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
 
 ## [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
 
