@@ -1,4 +1,4 @@
-# Natural Landscape Image Classifier Web App
+# Computer Vision Web App
 
 <p align="center">
   <img src="/images/landscape-classifier/web-app-screenshot.png?raw=true" 
