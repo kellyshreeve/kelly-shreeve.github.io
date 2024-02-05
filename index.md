@@ -9,10 +9,12 @@
   height="300"
   alt="Image of a Natural Landscape Classifier Web App">
 </p>
+ 
+[View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/)  
+[View Project] 
+[View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
 
-[View Project]  [View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/) [View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
-
-## [Global Route Optimization](https://kellyshreeve.github.io/pages/global-route-optimization)
+## Global Route Optimization
 
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
@@ -23,9 +25,10 @@
 
 *First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
-[View Project](https://kellyshreeve.github.io/pages/global-route-optimization) [View Code on Github] 
+[View Project](https://kellyshreeve.github.io/pages/global-route-optimization)  
+[View Code on Github](https://github.com/skovakina/jingle-bells-jam)
 
-## [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
+## Predicting Telecom Customer Churn
 
 <p align="center">
   <img src="/images/customer-churn/churn_over_time.png?raw=true" 
