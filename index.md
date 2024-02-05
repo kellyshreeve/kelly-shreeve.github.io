@@ -12,6 +12,8 @@
 
 *First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to visualize and optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
+[View Project] [View Code on Github] 
+
 ## [Predicting Telecom Customer Churn](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 
 <p align="center">
@@ -23,7 +25,7 @@
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
-[View Project on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
+[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) [View Code on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
 
 ## [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
 
