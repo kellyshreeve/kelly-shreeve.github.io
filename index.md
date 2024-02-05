@@ -12,9 +12,7 @@
  
  Deep learning, neural-network-driven web app that correctly classifies images as farm, solar field, neighborhood, or lake.  
 
-[View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/)  
-[View Project](https://kellyshreeve.github.io/pages/natural-landscape-classifier)  
-[View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
+[Web App](https://kellyshreeve-landscape-image-classifier.hf.space/) - [Project Overview](https://kellyshreeve.github.io/pages/natural-landscape-classifier) - [Project Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
 
 ## Global Route Optimization
 
