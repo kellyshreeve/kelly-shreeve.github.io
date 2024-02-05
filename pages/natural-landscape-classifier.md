@@ -42,3 +42,5 @@ Model correctly predicts farm field test image.
 width="287" 
 alt="Aerial image of a farm field">
 
+
+<a href='https://github.com/kellyshreeve/natural-landscape-image-classifier' target='_blank'>View Project on Github</a>
