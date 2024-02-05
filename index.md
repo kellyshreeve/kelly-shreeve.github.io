@@ -23,10 +23,9 @@
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
-*First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to optimize a global route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
+*First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to optimize a route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
 
-[View Project](https://kellyshreeve.github.io/pages/global-route-optimization)  
-[View Code on Github](https://github.com/skovakina/jingle-bells-jam)
+[Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam' target='_blank'>Project Code on Github</a>
 
 ## Predicting Telecom Customer Churn
 
@@ -39,8 +38,7 @@
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
-[View Code on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
+[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn' target='_blank'>Project Code on Github</a>
 
 ## Predicting Used Car Price
 
@@ -53,8 +51,7 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
 
 Regression machine learning project using Catboost and LightGBM to minimize RMSE and computation time when predicting used car prices.  
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price)  
-[View Code on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
+[View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price) - <a href='https://github.com/kellyshreeve/predicting-used-car-price' target='_blank'>Project Code on Github</a>
 
 ## Classifying Movie Reviews
 
