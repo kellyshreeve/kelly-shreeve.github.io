@@ -7,9 +7,11 @@
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
-Geo-location data was used to map and optimize a route around the world. I found, obtained, and cleaned a geo-location data set then used the data to visualize and optimize the global route in Python. 
+Analyzed geo-location data to map and optimize a route around the world. Obtained and cleaned a geo-location data set of countries worldwide, then used the data to find the minimum distance between the points in Python. 
 
-I passed the optimized solution to software engineers who integrated it into a webpage. The results is a well-designed site where users can find and interact with a data science solution that won first place in the Jingle Bell Code Jam, December 2023.
+Data science solution was downloaded to JSON and passed to software engineers who integrated it into a webpage. The results is a user-friendly webpage, where customers can interact with the global map.  
+
+Project won first place in the Jingle Bell Code Jam, December 2023.
 
 ## Live
 
