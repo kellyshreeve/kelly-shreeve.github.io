@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## Computer Vision Natural Landscape Classification Web App
+## Computer Vision Web App
 
 <p align="center">
   <img src="/images/landscape-classifier/web-app-screenshot.png?raw=true" 
