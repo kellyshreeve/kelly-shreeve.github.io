@@ -4,12 +4,14 @@
 ## Natural Landscape Computer Vision Classifier Web App
 
 <p align="center">
-  <img src="/images/we-app-screenshot.png?raw=true" 
+  <img src="/images/landscape-classifier/web-app-screenshot.png?raw=true" 
   width="600"
   height="300"
   alt="Image of a Natural Landscape Classifier Web App">
 </p>
  
+ Deep learning, neural-network-driven web app that correctly classifies images as farm, solar field, neighborhood, or lake.  
+
 [View Web App](https://kellyshreeve-landscape-image-classifier.hf.space/)  
 [View Project](https://kellyshreeve.github.io/pages/natural-landscape-classifier)  
 [View Code on Github](https://github.com/kellyshreeve/natural-landscape-image-classifier)
