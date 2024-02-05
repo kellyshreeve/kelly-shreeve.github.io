@@ -44,7 +44,7 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
 [View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn)  
 [View Code on GitHub](https://github.com/kellyshreeve/predicting-telecom-customer-churn)
 
-## [Predicting Used Car Price](https://kellyshreeve.github.io/pages/predicting-used-car-price)
+## Predicting Used Car Price
 
 <p align="center">
   <img src="/images/important_features.png?raw=true" 
@@ -53,11 +53,12 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
   alt="Important features LightGBM GBDT">
 </p>
 
-Regression machine learning project using Catboost and LightGBM to minimize RMSE and computation time when predicting used car prices.
+Regression machine learning project using Catboost and LightGBM to minimize RMSE and computation time when predicting used car prices.  
 
-[View Project on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
+[View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price)
+[View Code on GitHub](https://github.com/kellyshreeve/predicting-used-car-price)
 
-## [Classifying Movie Reviews](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)
+## Classifying Movie Reviews
 
 <p align="center">
   <img src="/images/nlp_f1.png?raw=true" 
@@ -68,9 +69,10 @@ Regression machine learning project using Catboost and LightGBM to minimize RMSE
 
 Natural language processing project classifying moview reviews by polarity, using NLTK, spaCy, and BERT language processing.
 
-[View Project on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
+[View Project](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)  
+[View Code on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
 
-## [Predicting Insurance Benefits](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)
+## Predicting Insurance Benefits
 
 <p align="center">
   <img src="/images/pairplot.png?raw=true" 
@@ -79,11 +81,12 @@ Natural language processing project classifying moview reviews by polarity, usin
   alt="Line graph of gold recovery across stages">
 </p>
 
-Imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, and imblearn to maximize F1 score when predicting the insurance benefits customers are likely to receive.
+Imbalanced, binary and multi-class classification project using Pipelines, GridSearchCV, and imblearn to maximize F1 score when predicting the insurance benefits customers are likely to receive.  
 
-[View Project on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
+[View Project](https://kellyshreeve.github.io/pages/predicting-insurance-benefits)
+[View Code on Github](https://github.com/kellyshreeve/predicting-insurance-benefits)
 
-## [Visualizing Coffee Quality](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)
+## Visualizing Coffee Quality
 
 <p align="center">
   <img src="/images/choropleth.png?raw=true" 
@@ -92,9 +95,10 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
   alt="Bar graph of average quality across coffee varieties">
 </p>
 
-Uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee.
+Uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee.  
 
-[View Project on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
+[View Project](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)  
+[View Code on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
 
 ---
 
