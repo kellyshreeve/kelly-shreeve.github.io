@@ -1,7 +1,7 @@
 ## Generative Answer Chat Bot
 
 <p align="center">
-  <img src="kellyshreeve/kellyshreeve.github.io/images/qa-chatbot/chatbot-image.png?raw=true"
+  <img src="/images/qa-chatbot/chatbot-image.png?raw=true"
   width="400"
   height="260"
   alt="Image of a cartoon AI chatbot">
@@ -26,7 +26,7 @@ target='_blank'>View App Code</a>
 The model accurately responds to open-ended questions with information from the dataset in under 5min on GPU.
 
 <p align="center">
-  <img src="images/qa-chatbot/open-ended-question.png?raw=true"
+  <img src="/images/qa-chatbot/open-ended-question.png?raw=true"
   width="600"
   height="300"
   alt="Chainlit App open ended question example">
@@ -37,7 +37,7 @@ The model accurately responds to open-ended questions with information from the 
 The model correctly picks from a list of multiple choice questions, displaying accuracy when answering customer questions.
 
 <p align="center">
-  <img src="images/qa-chatbot/multiple-choice-question.png?raw=true"
+  <img src="/images/qa-chatbot/multiple-choice-question.png?raw=true"
   width="600"
   height="300"
   alt="Chainlit App multiple choice question example">
