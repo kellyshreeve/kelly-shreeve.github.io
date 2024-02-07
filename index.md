@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="/images/landscape-classifier/web-app-screenshot.png?raw=true" 
-  width="600"
+  width="650"
   height="300"
   alt="Image of a Natural Landscape Classifier Web App">
 </p>
@@ -19,7 +19,7 @@
 <p align="center">
   <img src="/images/route-optimization/optimized-route.png?raw=true" 
   width="600"
-  height="300"
+  height="290"
   alt="Map using geo-location data to display an optimized route around the world">
 </p>
 
@@ -32,7 +32,7 @@
 <p align="center">
   <img src="/images/qa-chatbot/chatbot-image.png?raw=true" 
   width="600"
-  height="300"
+  height="290"
   alt="Image of a futuristic chat robot">
 </p>
 
@@ -106,7 +106,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 
 Uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee.  
 
-[Project Overview](https://kellyshreeve.github.io/pages/visualizing-coffee-quality) - <a href='https://github.com/kellyshreeve/Visualizing_Coffee_Quality' target='_blank'>View Code on Github</a>
+[Project Overview](https://kellyshreeve.github.io/pages/visualizing-coffee-quality) - <a href='https://github.com/kellyshreeve/Visualizing_Coffee_Quality' target='_blank'>Project Code on Github</a>
 
 ---
 
