@@ -51,7 +51,7 @@ An AI customer service chatbot that uses Llama-2 and Retrieval Augmented Generat
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn' target='_blank'>Project Code on Github</a>
+[Project Overview](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn' target='_blank'>Project Code on Github</a>
 
 ## Predicting Used Car Price - 10/2023
 
@@ -64,7 +64,7 @@ Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost,
 
 Regression machine learning project using Catboost and LightGBM to minimize RMSE and computation time when predicting used car prices.  
 
-[View Project](https://kellyshreeve.github.io/pages/predicting-used-car-price) - <a href='https://github.com/kellyshreeve/predicting-used-car-price' target='_blank'>Project Code on Github</a>
+[Project Overview](https://kellyshreeve.github.io/pages/predicting-used-car-price) - <a href='https://github.com/kellyshreeve/predicting-used-car-price' target='_blank'>Project Code on Github</a>
 
 ## Classifying Movie Reviews - 10/2023
 
@@ -77,8 +77,7 @@ Regression machine learning project using Catboost and LightGBM to minimize RMSE
 
 Natural language processing project classifying moview reviews by polarity, using NLTK, spaCy, and BERT language processing.
 
-[View Project](https://kellyshreeve.github.io/pages/classifying-reviews-nlp)  
-[View Code on Github](https://github.com/kellyshreeve/categorizing-customer-reviews)
+[Project Overview](https://kellyshreeve.github.io/pages/classifying-reviews-nlp) - <a href='https://github.com/kellyshreeve/categorizing-customer-reviews' target='_blank'>Project Code on Github</a>
 
 <!---
 ## Predicting Insurance Benefits
@@ -107,8 +106,7 @@ Imbalanced, binary and multi-class classification project using Pipelines, GridS
 
 Uses high-level plotly visualizations of coffee quality across the world to determine which region, variety, and altitude produce the best quality coffee.  
 
-[View Project](https://kellyshreeve.github.io/pages/visualizing-coffee-quality)  
-[View Code on GitHub](https://github.com/kellyshreeve/Visualizing_Coffee_Quality)
+[Project Overview](https://kellyshreeve.github.io/pages/visualizing-coffee-quality) - <a href='https://github.com/kellyshreeve/Visualizing_Coffee_Quality' target='_blank'>View Code on Github</a>
 
 ---
 
