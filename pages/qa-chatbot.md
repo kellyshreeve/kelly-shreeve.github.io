@@ -1,7 +1,7 @@
 ## Generative Answer Chat Bot
 
 <p align="center">
-  <img src="images/qa-chatbot/chatbot-image.png"
+  <img src="images/qa-chatbot/chatbot-image.png?raw=true"
   width="400"
   height="250"
   alt="Image of a cartoon AI chatbot">
@@ -17,27 +17,27 @@
 **Techniques**: RAG, Llama-2, LangChain, LLMs  
 
 <a href='https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py'
-target='_blank'>View Project Code</a>
+target='_blank'>View App Code</a>
 
 ### Examples  
 
-##### Open-Ended Question Answering  
+#### Open-Ended Question Answering  
 
 The model accurately responds to open-ended questions with information from the dataset in under 5min on GPU.
 
 <p align="center">
-  <img src="images/qa-chatbot/open-ended-question.png"
+  <img src="images/qa-chatbot/open-ended-question.png?raw=true"
   width="600"
   height="300"
   alt="Chainlit App open ended question example">
 </p>
 
-##### Multiple-Choice Question Answering
+#### Multiple-Choice Question Answering
 
 The model correctly picks from a list of multiple choice questions, displaying accuracy when answering customer questions.
 
 <p align="center">
-  <img src="images/qa-chatbot/multiple-choice-question.png"
+  <img src="images/qa-chatbot/multiple-choice-question.png?raw=true"
   width="600"
   height="300"
   alt="Chainlit App multiple choice question example">
