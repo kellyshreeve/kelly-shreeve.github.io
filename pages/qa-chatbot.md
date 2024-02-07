@@ -14,7 +14,7 @@
  2. Pull information from a domain specific dataset  
  3. Produce accurate answers  
 
-**Techniques**: RAG, Llama-2, LangChain, LLMs  
+**Techniques**: RAG, Llama-2, LangChain, Chainlit
 
 <a href='https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py'
 target='_blank'>View App Code</a>
