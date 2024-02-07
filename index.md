@@ -38,7 +38,7 @@
 
 An AI customer service chatbot that uses Llama-2 and Retrieval Augmented Generation to answer questions based on information learned from a dataset.
 
-[Project Overview](https://kellyshreeve.github.io/pages/qa-chatbot) - <a href='https://github.com/kellyshreeve/QA-Chatbot' target='_blank'>Full Project on Github</a> - <a href='https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py' target='_blank'>App Code</a>
+[Project Overview](https://kellyshreeve.github.io/pages/qa-chatbot) - <a href='https://github.com/kellyshreeve/QA-Chatbot' target='_blank'>Project on Github</a> - <a href='https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py' target='_blank'>App Code</a>
 
 ## Predicting Telecom Customer Churn - 11/2023
 
