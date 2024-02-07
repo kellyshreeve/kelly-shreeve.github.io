@@ -1,7 +1,7 @@
 ## Generative Answer Chat Bot
 
 <p align="center">
-  <img src="images/qa-chatbot/chatbot-image.png?raw=true"
+  <img src="kellyshreeve/kellyshreeve.github.io/images/qa-chatbot/chatbot-image.png?raw=true"
   width="400"
   height="260"
   alt="Image of a cartoon AI chatbot">
