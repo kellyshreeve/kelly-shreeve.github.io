@@ -27,6 +27,19 @@
 
 [Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam/blob/main/notebooks/merry_mailers_route_optimizer.ipynb' target='_blank'>Project Code on Github</a>
 
+## QA Chatbot - 11/2023
+
+<p align="center">
+  <img src="/images/qa-chatbot/chatbot-image.png?raw=true" 
+  width="600"
+  height="300"
+  alt="Image of a futuristic chat robot">
+</p>
+
+An AI customer service chatbot that uses Llama-2 and Retrieval Augmented Generation to answer questions based on information learned from a dataset.
+
+[Project Overview](https://kellyshreeve.github.io/pages/qa-chatbot.md) - <a href='https://github.com/kellyshreeve/QA-Chatbot' target='_blank'>Full Project on Github</a> - <a href='https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py' target='_blank'>App Code</a>
+
 ## Predicting Telecom Customer Churn - 11/2023
 
 <p align="center">
