@@ -39,7 +39,7 @@ The model correctly picks from a list of multiple choice questions, displaying a
 <p align="center">
   <img src="/images/qa-chatbot/multiple-choice-question.png?raw=true"
   width="600"
-  height="300"
+  height="270"
   alt="Chainlit App multiple choice question example">
 </p>
 
