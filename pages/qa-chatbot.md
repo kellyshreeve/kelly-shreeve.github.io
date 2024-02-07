@@ -3,7 +3,7 @@
 <p align="center">
   <img src="images/qa-chatbot/chatbot-image.png?raw=true"
   width="400"
-  height="250"
+  height="260"
   alt="Image of a cartoon AI chatbot">
 </p>
 
