@@ -14,19 +14,6 @@
 
 <a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Web App</a>  - <a href='https://kellyshreeve.github.io/pages/natural-landscape-classifier' target='_blank'>Project Overview</a> - <a href='https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/final-model/Natural-Landscape-Image-Classifier.ipynb' target='_blank'>Project Code on Github</a>
 
-## Global Route Optimization - 12/2023
-
-<p align="center">
-  <img src="/images/route-optimization/optimized-route.png?raw=true" 
-  width="600"
-  height="290"
-  alt="Map using geo-location data to display an optimized route around the world">
-</p>
-
-*First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to optimize a route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
-
-[Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam/blob/main/notebooks/merry_mailers_route_optimizer.ipynb' target='_blank'>Project Code on Github</a>
-
 ## QA Chatbot - 11/2023
 
 <p align="center">
@@ -52,6 +39,19 @@ An AI customer service chatbot that uses Llama-2 and Retrieval Augmented Generat
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
 [Project Overview](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn' target='_blank'>Project Code on Github</a>
+
+## Global Route Optimization - 12/2023
+
+<p align="center">
+  <img src="/images/route-optimization/optimized-route.png?raw=true" 
+  width="600"
+  height="290"
+  alt="Map using geo-location data to display an optimized route around the world">
+</p>
+
+*First place in the Jingle Bell Code Jam, December 2023.* Analyzed geo-location data to optimize a route around the world, then collaborated with software engineers to deploy the solution on a webpage. 
+
+[Project Overview](https://kellyshreeve.github.io/pages/global-route-optimization) - <a href='https://github.com/skovakina/jingle-bells-jam/blob/main/notebooks/merry_mailers_route_optimizer.ipynb' target='_blank'>Project Code on Github</a>
 
 ## Predicting Used Car Price - 10/2023
 
