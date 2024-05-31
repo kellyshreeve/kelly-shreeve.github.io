@@ -38,7 +38,7 @@ An AI customer service chatbot that uses Llama-2 and Retrieval Augmented Generat
 
 Imbalanced classification project, using Pipelines, XGBoost, LightGBM, AdaBoost, and class balancing techniques to maximize ROC-AUC when predicting customer churn.
 
-[Project Overview](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn' target='_blank'>Project Code on Github</a>
+[Project Overview](https://kellyshreeve.github.io/pages/predicting-telecom-churn) - <a href='https://github.com/kellyshreeve/predicting-telecom-customer-churn/blob/main/Notebooks/project-code.ipynb' target='_blank'>Project Code on Github</a>
 
 ## Global Route Optimization - 12/2023
 
